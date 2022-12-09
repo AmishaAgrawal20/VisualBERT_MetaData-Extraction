@@ -1,0 +1,4 @@
+Column1	abstract	affiliation	author	date	journal	title	doi
+precision	0.68	0.75	0.87	0.71	0.86	0.88	0.59
+recall	0.58	0.84	0.87	0.7	0.78	0.87	0.53
+f1-score	0.62	0.8	0.87	0.71	0.82	0.88	0.55
